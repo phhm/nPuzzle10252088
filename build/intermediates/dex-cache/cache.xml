@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/pre-dexed/debug/classes-c03924d98bd7f175a43bf47f94d25e9c55ea84c3.jar"
+        jar="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-ff6f30aa5d98fa80600d2eca6982cc3aa7167b1e.jar"
+        jar="/Users/pietervandijk/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-ff6f30aa5d98fa80600d2eca6982cc3aa7167b1e.jar"
+        jar="/Users/pietervandijk/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/pre-dexed/debug/classes-c03924d98bd7f175a43bf47f94d25e9c55ea84c3.jar"
+        jar="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/pre-dexed/debug/classes-6a71974a06b65dfb7b11ce6f6152c86001dd6040.jar"
+        jar="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/pre-dexed/debug/classes-6a71974a06b65dfb7b11ce6f6152c86001dd6040.jar"
+        jar="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-978dacbfacf136c52610b0d814b55eec1019e260.jar"
+        jar="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-978dacbfacf136c52610b0d814b55eec1019e260.jar"
+        jar="/Users/pietervandijk/nPuzzle102520882/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+
+</pre-dex-items>
